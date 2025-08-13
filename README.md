@@ -41,12 +41,6 @@
 
 ---
 
-### 📊 GitHub Stats
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=radical" alt="GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=radical" alt="GitHub Streak" />
-</p>
 
----
 
 ⭐ **From [Anubhav Samanta](https://github.com/YOUR-USERNAME)**
