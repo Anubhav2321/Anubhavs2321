@@ -11,7 +11,6 @@
 ---
 
 ## 🚀 About Me
-- 🎓 Currently pursuing **BCA at Techno India University** 
 - 🎓 Student at **Techno India University, West Bengal**
 - 💻 Passionate **Full Stack Developer**
 - 🛠 Backend: **Python, Java**
@@ -24,13 +23,13 @@
 
 ## 📫 Connect With Me
 <p align="left">
-  <a href="[https://www.facebook.com/share/16zV3fL4wE/]" target="_blank">
+  <a href="https://facebook.com/YOUR-FACEBOOK" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877f2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
   <a href="https://instagram.com/YOUR-INSTAGRAM" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in" target="_blank">
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
@@ -57,9 +56,17 @@
 
 ---
 
+## 📊 GitHub Stats
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=radical" alt="GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=radical" alt="GitHub Streak" />
+</p>
 
 ---
 
+## 🐍 Contribution Snake
+![GitHub Snake Animation](https://github.com/YOUR-USERNAME/YOUR-USERNAME/blob/output/github-contribution-grid-snake.svg)
 
+---
 
 ⭐ **From [Anubhav Samanta](https://github.com/YOUR-USERNAME)**
