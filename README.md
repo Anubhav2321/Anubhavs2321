@@ -10,7 +10,7 @@
 ---
 
 ### 🚀 About Me
-- 🎓 *B.Tech student at Techno India University, West Bengal*  
+- 🎓 **BCA student at Techno India University, West Bengal**  
 - 💻 Full Stack Developer skilled in *Python, Java, JavaScript, R*  
 - 🤖 Learning *AI & Machine Learning Engineering*  
 - 🛠 Building full stack projects & contributing to open source  
