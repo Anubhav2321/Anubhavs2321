@@ -11,6 +11,7 @@
 ---
 
 ## 🚀 About Me
+- 🎓 Currently pursuing **BCA at Techno India Universit**
 - 🎓 Student at **Techno India University, West Bengal**
 - 💻 Passionate **Full Stack Developer**
 - 🛠 Backend: **Python, Java**
