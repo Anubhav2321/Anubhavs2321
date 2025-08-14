@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Anubhav</h1>
+p<h1 align="center">Hi 👋, I'm Anubhav</h1>
 
 <h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7F7&center=true&vCenter=true&width=500&lines=Student+at+Techno+India+University;Full+Stack+Developer;Backend+%7C+Frontend+%7C+Database;Always+Learning+New+Things" alt="Typing SVG" />
@@ -23,7 +23,7 @@
 
 ## 📫 Connect With Me
 <p align="left">
-  <a href="https://facebook.com/YOUR-FACEBOOK" target="_blank">
+  <a href="https://facebook.com/a.nu.bha.ba.550218" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877f2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
   <a href="https://instagram.com/YOUR-INSTAGRAM" target="_blank">
@@ -56,17 +56,5 @@
 
 ---
 
-## 📊 GitHub Stats
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=radical" alt="GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=radical" alt="GitHub Streak" />
-</p>
-
----
-
-## 🐍 Contribution Snake
-![GitHub Snake Animation](https://github.com/YOUR-USERNAME/YOUR-USERNAME/blob/output/github-contribution-grid-snake.svg)
-
----
 
 ⭐ **From [Anubhav Samanta](https://github.com/YOUR-USERNAME)**
